@@ -13,7 +13,7 @@ Documented journey from zero to Machine Learning Internship
 - **Desired Certifications:** - AWS Certified Machine Learning (Specialty), and Google Cloud Professional ML Engineer, 
 - **Hosted On:** GitHub (for public accountability and portfolio visibility)
 - **Goal:** To get an internship in ML.
-- **Why Journal?** Tired of lying to myself. Tired of saying "I'm going to lock in" and doing nothing. Nothing kills self-esteem like repeatedly breaking promises to yourself.
+- **Why Journal?** Tired of lying to myself. Tired of saying "I'm going to lock in" and doing nothing. Nothing kills self-esteem like repeatedly breaking promises to yourself. So I'm journaling not only my ML journey, but my self-growth journey aswell.
 
 ---
 
@@ -34,27 +34,40 @@ Documented journey from zero to Machine Learning Internship
 - This readme IS a weekly sumamry of my journey. The daily journal is `myjournal.md`. This is basically a living document to track and share my ML journey
 
 ---
+> ✅ **Weekly Formatting:**
+> - 🎯 Learning Objectives
+> - 📦 Key Tasks (Coding + Study)
+> - 💡 Notes & Insights
+> - 🧪 Resume-Building Progress (if any)
+> - 🌱 Self-Growth Insights/tasks
+---
 
 ## 👨🏾‍💻Sidenotes:
-- Everyone keeps telling me to get a laptop for engineering. F* that, you cant do this on windows😂☠️🙈🎶😏
+- Everyone keeps telling me to get a laptop for engineering. F* that, and F* Windows!😂☠️🙈🎶😏
 
 ---
 
 ## ✅ Weekly Progress Checklist
 
-### 📅 Week 1 – Python Basics & Core Math (Linear Algebra I)
+### 📅 Week 1 – Python Basics & Core Math (Linear Algebra)
 #### Week of Sun, Jun 1 - Sat, Jun 7
-- [ ] Review data types, variables, control flow (`if`, `for`, `while`)
-- [ ] Complete 5 mini exercises (FizzBuzz, sum list, etc.)
-- [ ] Start Khan Academy Linear Algebra – Vectors, Scalars
+- 🎯 **Learning Objectives**
+  - Reacquaint with Python syntax, variables, data types, loops.
+  - Learn vector basics in Linear Algebra.
+- 📦 **Key Tasks**
+  - [ ] Learn basic Python syntax: variables, data types (`int`, `float`, `str`, `list`, `dict`).
+  - [ ] Review data types, variables, control flow (`if`, `for`, `while`)
+  - [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
+  - [ ] Start Khan Academy Linear Algebra – Vectors, Scalars
+  - [ ] Apply to 1 MIS/data related internship.
+- 💡 **Notes & Insights**
+  - I’m essentially rebuilding from zero... Aside from Calculus 1, I've  learned almost nothing during my time in college. I know it only gets harder from here, but with God, all things are possible. Resources Used: [DataCamp Cheat Sheet](https://www.datacamp.com/community/blog/python-cheat-sheet)
+- 🌱 **Self-Growth Focus**
+  - Journal 3 personal values (e.g., discipline, curiosity, growth).
 
 ---
 
-📝 **Side Notes:**
-```
-Reflections: What did I struggle with in loops?
-Resources Used: [DataCamp Cheat Sheet](https://www.datacamp.com/community/blog/python-cheat-sheet)
-```
+
 
 ---
 
