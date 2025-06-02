@@ -48,6 +48,8 @@ Documented journey from zero to Machine Learning Internship
 - [ ] Complete 5 mini exercises (FizzBuzz, sum list, etc.)
 - [ ] Start Khan Academy Linear Algebra – Vectors, Scalars
 
+---
+
 📝 **Side Notes:**
 ```
 Reflections: What did I struggle with in loops?
