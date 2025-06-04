@@ -12,7 +12,8 @@ Week of Sun, Jun 1 2025 - Sat, Jun 7 2025
 - 6/2/2025 Mon - Week 1 Day 2
     - Woke up late, got my hair retwisted, and i'm only now starting my day at 8:33 PM. 
 - 6/3/2025 Tues - Week 1 Day 3
-    - Flew from Baltimore to Houston. Finally back in texas
+    - Flew from Baltimore to Houston. Finally back in Texas for this summer semester. Currently 11:59PM as I type this. Didn't do a single ML-learning thing today nor yesterday. At least I'm finally situated. Not starting right now (6/4 12:01am) so that I can wake up early and get to it (goal is 7:00am). Night night!
+- 6/4/2025
     
     
 ---
