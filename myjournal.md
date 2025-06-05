@@ -17,6 +17,9 @@ Week of Sun, Jun 1 2025 - Sat, Jun 7 2025
     - 7:24PM, finally starting my ML journey.
     - Learnt basic syntax, variables, and data types in python. Mixture of code notes and paper notes.
     - First day of significant progress. Finally going to sleep (6/5 1:42AM). night night
+- 6/5/2025 - Week 1 Day 5 (Thursday)
+    - Been calculussing all day. Time rn is 4PM, and I'm finishing up the homework.
+    - Made a Notion thingy for my calculus 2 summer class, and I've added my daily ML tasks on there aswell. boo-yah
     
     
 ---
