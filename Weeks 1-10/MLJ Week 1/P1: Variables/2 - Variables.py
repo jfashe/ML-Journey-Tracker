@@ -1,17 +1,23 @@
-# # Variables (ChatGPTutor)
+# Variables (ChatGPTutor)
 """
 Variables store data. Variable/data types do not need to be declared.
-    - They can be reassigned to a different type
+    - They can be reassigned to a different type, but isnt recommended.
     - variables must start with a letter or underscore
     - no spaces or special characters (except _)
     - are case sensitive; (myVar ≠ MyVar)
 
 """
-x = 5
-print(x)
+x = 5 # integer
+name = "joshua"
+gpa = 2.77
+print(x, "\n")
 
-x = 10
-print(x)
+x = "joshua" # reassigned
+print (x, "\n")
+
+x = 5
+print(name, "has a", gpa, "GPA") #concantation by comma
+print(name + "'s favorite number is 5") #concantation by commas. not recommended since you can only concatenate strings.
 
 """
 CHATGPT PROMPT:
