@@ -8,7 +8,7 @@ dict (Dictionary/Key-Value Pair)
     person = {
     "name": "Josh",
     "age": 19,
-    "is_student": "True",
+    "is_student": True,
     }
     - Seperated by commas
     - accessed by key (key:value)
@@ -32,21 +32,21 @@ print(grades)
 print("index accessing [x]:")
 print(grades[1]) # accesses second list item
 
-print ("Index Slicing [:x]")
+print ("Index slicing [:x]")
 print(grades[:2]) # slices and returns first two list items
 
 # Common Dict Methods
 person = {
     "name": "Josh",
     "age": 19,
-    "is_student": "True",
+    "is_student": True,
     }
 newline()
 
-print("Accessing:")
+print("index access ['key']:")
 print(person['name']) # acccesses a value by its key ('Joshua')
 
-print(".get():")
+print("accessing using .get():")
 print(person.get('age')) # 'gets' a value from its key (19)
 
 """
@@ -56,5 +56,5 @@ CHATGPT PROMPT:
 
 I want cheats to make it easier (if they are difficult) and notes aswell. Do not leave out any important information. This will help me with my machine learning journey."
 
-From there on out I seperated it to three parts (This is part 3.2).
+From there on out I seperated it to four parts (This is part 3.2).
 """
