@@ -7,13 +7,21 @@ Variables store data. Variable/data types do not need to be declared.
     - are case sensitive; (myVar ≠ MyVar)
 
 """
+def newline():
+    print("------------------")
+
+newline()
 x = 5 # integer
-name = "joshua"
-gpa = 2.77
-print(x, "\n")
+name = "joshua" # string
+gpa = 2.77 # float
+print(x)
+
+newline()
 
 x = "joshua" # reassigned
-print (x, "\n")
+print (x)
+
+newline()
 
 x = 5
 print(name, "has a", gpa, "GPA") #concantation by comma
