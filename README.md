@@ -61,7 +61,7 @@ Documented journey from zero to Machine Learning Internship
   - [ ] Start Khan Academy Linear Algebra – Vectors, Scalars
   - [ ] Apply to 1 MIS/data related internship.
 - 💡 **Notes & Insights**
-  - I’m essentially rebuilding from zero... Aside from Calculus 1, I've  learned almost nothing during my time in college. I know it only gets harder from here, but with God, all things are possible. Resources Used: [DataCamp Cheat Sheet](https://www.datacamp.com/community/blog/python-cheat-sheet)
+  - I’m essentially rebuilding from zero... Aside from Calculus 1, I've learned almost nothing from my time (so far) in college. I know it only gets harder from here, but with God, all things are possible. Resources Used: [DataCamp Cheat Sheet](https://www.datacamp.com/community/blog/python-cheat-sheet)
 - 🌱 **Self-Growth Focus**
   - Journal 3 personal values (e.g., discipline, curiosity, growth).
 
