@@ -20,6 +20,7 @@ Week of Sun, Jun 1 2025 - Sat, Jun 7 2025
 - 6/5/2025 - Week 1 Day 5 (Thursday)
     - Been calculussing all day. Time rn is 4PM, and I'm finishing up the homework.
     - Made a Notion thingy for my calculus 2 summer class, and I've added my daily ML tasks on there aswell. boo-yah
+    - 10PM. Still Calculussing. Really need to get my time management together...
     
     
 ---
