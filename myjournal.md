@@ -23,5 +23,8 @@ Week of Sun, Jun 1 2025 - Sat, Jun 7 2025
     - 10PM. Still Calculussing. Really need to get my time management together...
 - 6/6/2025 - Week 1 Day 6 (Friday)
     - 4:51PM. This is no longer a joke. My time management is actually horrible. I Didn't do ANYTHING besides cal2 work yesterday.
-    
+- 6/7/2025 - Week 1 Day 7 (Saturday)
+    - Woke at 9:38AM. Either we're getting somewhere, or lucky weekend start.
+    - Prayed, read my bible, and am now watching lecture.
+    - Plan to start my ML learning by 4:30PM.
 ---
