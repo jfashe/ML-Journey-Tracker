@@ -99,10 +99,10 @@ This project shows my transition from zero to deployable ML pipelines. Built ent
 ---
 
 ## GitHub Readme To-Do (for visibility)
-- [ ] Weekly progress commits (README updates)
+- [X] Weekly progress commits (README updates)
 - [ ] Add `progress.png` or heatmap showing checked weeks
 - [ ] Add GIF/video of deployed model in action
-- [ ] Pin repo to GitHub profile
+- [X] Pin repo to GitHub profile
 
 ---
 
