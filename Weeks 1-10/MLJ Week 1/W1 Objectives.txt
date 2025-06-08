@@ -9,6 +9,6 @@ Python:
     - `for`
     - `while`
   - Practice loops: write FizzBuzz, sum a list, list comprehensions.
-Linear Algebra:
+Linear Algebra (Khan Academy):
   - Vectors
   - Scalars

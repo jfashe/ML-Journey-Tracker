@@ -31,3 +31,11 @@ Week of Sun, Jun 1 2025 - Sat, Jun 7 2025
     - Had to drop my mans off in Houston, took 3 hours off of my day. Finished learning Vectors and Scalars (linear algebra).
     - Didn't finish Week 1 in time. Overlapping with week 2.
 ---
+
+## 📅 Week 2 - Functions & Probability
+Week of Sun, Jun 8 2025 - Sat, Jun 14 2025
+
+**Goal: Complete basics. Data types, variables, loops and control flow**
+- 6/8/2025 Sun - Week 2 Day 1
+    - nothing yet.
+---
