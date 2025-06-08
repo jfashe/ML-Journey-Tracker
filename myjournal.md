@@ -27,6 +27,7 @@ Week of Sun, Jun 1 2025 - Sat, Jun 7 2025
     - 4:51PM. This is no longer a joke. My time management is actually horrible. I Didn't do ANYTHING besides cal2 work yesterday.
 - 6/7/2025 - Week 1 Day 7 (Saturday)
     - Woke at 9:38AM. Getting somewhere in terms of time management.
-    - Started my day in Christ, so I'm feeling powerful.
+    - Started my day in Christ, feeling powerful.
     - Plan to start my ML learning by 5:30PM, back to calculus at 7:30, and back here by 10. By fire by force, ML week 1 ends TODAY!!
+    - Had to drop my mans off in Houston, took 3 hours off of my day. Finished learning Vectors and Scalars (linear algebra).
 ---
