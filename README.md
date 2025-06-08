@@ -108,7 +108,7 @@ This project shows my transition from zero to deployable ML pipelines. Built ent
 
 ## 💬 Contact
 **Author:** Joshua Fashe  
-**Portfolio:** [Portfolio](https://joshuapersonalprofile.netlify.app/)  
+**Portfolio (Obsolete):** [Portfolio](https://joshuapersonalprofile.netlify.app/)  
 **LinkedIn:** [in/jfashe](https://www.linkedin.com/in/jfashe)  
 **GitHub:** [jfashe](https://github.com/jfashe)
 
