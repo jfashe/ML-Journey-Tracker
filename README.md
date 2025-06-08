@@ -46,11 +46,9 @@ Documented journey from zero to Machine Learning Internship
 - Everyone keeps telling me to get a laptop for engineering. F* that, and F* Windows!😂☠️🙈🎶😏
 
 ---
-
-## ✅ Weekly Progress Checklist
-
-### 📅 Week 1 – Python Basics & Core Math (Linear Algebra)
-#### Week of Sun, Jun 1 - Sat, Jun 7
+# 📅 Weekly Progress Checklist
+## Weeks 1-10: Python Refresher, Data Science Foundations
+### ✅ Week 1 – Python Basics & Core Linear Algebra (Sun, Jun 1 - Sat, Jun 7) **LATE**
 - 🎯 **Learning Objectives**
   - Reacquaint with Python syntax, variables, data types, loops.
   - Learn vector basics in Linear Algebra.
@@ -58,15 +56,29 @@ Documented journey from zero to Machine Learning Internship
   - [X] Learn basic Python syntax: variables, data types (`int`, `float`, `str`, `list`, `dict`)
   - [ ] Review data types, variables, control flow (`if`, `for`, `while`)
   - [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
-  - [ ] Start Khan Academy Linear Algebra – Vectors, Scalars
+  - [X] Start Khan Academy Linear Algebra – Vectors, Scalars
   - [ ] Apply to 1 MIS/data related internship.
 - 💡 **Notes & Insights**
   - I’m essentially rebuilding from zero... Aside from Calculus 1, I've learned almost nothing from my time (so far) in college. I know it only gets harder from here, but with God, all things are possible. Resources Used: [DataCamp Cheat Sheet](https://www.datacamp.com/community/blog/python-cheat-sheet)
 - 🌱 **Self-Growth Focus**
   - Journal 3 personal values (e.g., discipline, curiosity, growth).
-
 ---
-
+### ✅ Week 2: Functions & Probability (Sun, Jun 8 - Sat, Jun 14)
+- 🎯 **Learning Objectives**
+  - Master Python functions, modules, packaging.
+  - Learn basic probability theory.
+- 📦 **Key Tasks**
+  - [ ] Learn Python functions: definitions, parameters, return values.
+  - [ ] Practice `import` statements; install a package via `pip`.
+  - [ ] Write functions: prime checker, factorial, simple calculator.
+  - [ ] Study basic probability (Khan Academy “Probability Fundamentals”).
+- 🧪 **Resume-Building Progress**
+  - Apply to 2 entry-level Python/data internships.
+- 💡 **Notes & Insights**
+  - placeholder cause i can't collapse the group if this is empty blah blah my q50 fast as hail
+- 🌱 **Self-Growth Focus**
+  - Read atleast 50 pages of Discipline is Destiny by Ryan Holiday
+---
 
 
 ---
