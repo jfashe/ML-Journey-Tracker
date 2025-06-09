@@ -37,5 +37,6 @@ Week of Sun, Jun 8 2025 - Sat, Jun 14 2025
 
 **Goal: Complete basics. Data types, variables, loops and control flow**
 - 6/8/2025 Sun - Week 2 Day 1
-    - nothing yet.
+    - Learned Disk/Washer and Shell/Cylinder method (calculus II)
+    - Read the intro (20 pages) of Discipline is Destiny by Ryan Holiday
 ---
