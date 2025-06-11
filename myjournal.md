@@ -39,4 +39,6 @@ Week of Sun, Jun 8 2025 - Sat, Jun 14 2025
 - 6/8/2025 Sun - Week 2 Day 1
     - Learned Disk/Washer and Shell/Cylinder method (calculus II)
     - Read the intro (20 pages) of Discipline is Destiny by Ryan Holiday
+- 6/9/2025 - Week 2 Day 2 (Monday)
+    - Nothing done
 ---
