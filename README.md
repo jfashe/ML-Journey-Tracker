@@ -29,7 +29,6 @@ Documented journey from zero to Machine Learning Internship
         - 2 projects utilizing Keras, Docker, and whatever the hell I've learned.
         - MINIMUM 10 internship applications per week
 - Each week, I check off my progress using `[ ]` (incomplete) or `[x]` (complete)
-- **If you're seeing this, everything should be empty `[  ]`, since it's day one of week one!**
 - I'll be using the **Side Notes** section for reflections, questions, and action items
 - This readme IS a weekly sumamry of my journey. The daily journal is `myjournal.md`. This is basically a living document to track and share my ML journey
 
