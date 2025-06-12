@@ -43,8 +43,6 @@ Week of Sun, Jun 8 2025 - Sat, Jun 14 2025
     - Nothing done
 - 6/10/20205 - Week 2 Day 3 (Tuesday)
     - Accel cal course is taking all of my time. Schedule for tomorrow:
-        9AM-1PM - Finish W1
-        1PM-4PM tops - SLEEP
-        5PM-10pm (pomodoro) - Calculus work
-        10pm-12am - Begin W2
+- 6/11/2025 - Week 2 Day 4 (Wednesday)
+    - Need to find a day to sit down and strictly work on this. Calculus II is the ONLY class I'm taking rn but its beating my ass.
 ---
