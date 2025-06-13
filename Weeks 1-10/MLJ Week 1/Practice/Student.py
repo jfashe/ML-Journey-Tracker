@@ -11,11 +11,16 @@ time.sleep(1)
 choice = input("enter 'a' to make a student, 'b' to marry a couple, and 'c' to... idk...")
 match choice:
     case "a":
+        gender = input("\"His\" or \"Her\"?")
+
         student={
             "name":input("Student name? "),
+            "school":input("Student school? "),
             "age":int(input("Student age? ")),
             "GPA":float(input("Student GPA? ")),
-            }ß
+            }
+        print("loading..."), time.sleep(1)
+        print(f"Got it! {gender} name is {student["name"]}. A beautiful student at {student["school"]}, with a {student["gpa"]} GPA!")
     case "b":
         husband = input("Enter the husbands FULL name: ")
         while " " in husband:
