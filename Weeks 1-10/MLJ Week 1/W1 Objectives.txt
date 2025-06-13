@@ -1,14 +1,14 @@
 Week 1 Objectives:
 
 Python:
-  - Syntax
-    - Variables
-    - Data types (`int`, `float`, `str`, `list`, `dict`).
-  - Control flow 
-    - `if`
-    - `for`
-    - `while`
-  - Practice loops: write FizzBuzz, sum a list, list comprehensions.
-Linear Algebra (Khan Academy):
-  - Vectors
-  - Scalars
+  [X] Syntax
+    [X] Variables
+    [X] Data types (`int`, `float`, `str`, `list`, `dict`).
+  [ ] Control flow 
+    [ ] if/else
+    [ ] for
+    [ ] while
+  [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
+[X] Linear Algebra (Khan Academy):
+  [X] Vectors
+  [X] Scalars

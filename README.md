@@ -46,7 +46,7 @@ Documented journey from zero to Machine Learning Internship
 
 ---
 # 📅 Weekly Progress Checklist
-## Weeks 1-10: Python Refresher, Data Science Foundations
+## Weeks 1-10: Python Refresher (CS50P), Data Science Foundations
 ### ✅ Week 1 – Python Basics & Core Linear Algebra (Sun, Jun 1 - Sat, Jun 7) **LATE**
 - 🎯 **Learning Objectives**
   - Reacquaint with Python syntax, variables, data types, loops.
