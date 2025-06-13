@@ -2,15 +2,15 @@ Week 1 Objectives:
 
 Python:
   - Functions
-    - Definitions 
-    - Parameters
-    - Return values
+    [ ] Definitions 
+    [ ] Parameters
+    [ ] Return values
 - Modules/Packaging
-    - Practice import statements
-    - Install a package via pip
+    [ ] Practice import statements
+    [ ] Install a package via pip
 - Code - Write functions:
-    - Prime checker
-    - Factorial
-    - Simple calculator
+    [ ] Prime checker
+    [ ] Factorial
+    [ ] Simple calculator
 Math:
-  - Basic Probability (Khan Academy)
+  [ ] Basic Probability (Khan Academy)

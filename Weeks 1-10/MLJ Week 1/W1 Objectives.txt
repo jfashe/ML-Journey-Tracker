@@ -4,9 +4,9 @@ Python:
   [X] Syntax
     [X] Variables
     [X] Data types (`int`, `float`, `str`, `list`, `dict`).
-  [ ] Control flow 
+  [X] Control flow 
     [X] if/else
-    [ ] for
+    [X] for
     [X] while
   [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
 [X] Linear Algebra (Khan Academy):
