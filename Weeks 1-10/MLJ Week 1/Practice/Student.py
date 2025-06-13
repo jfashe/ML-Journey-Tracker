@@ -35,5 +35,17 @@ match choice:
             sys.exit("Too many values. Try again.")
         wife_first = input("Enter the brides FIRST name: ")
         print(f"{wife_first} {husband_last}, {husband}, I now pronounce you husband and wife.")
+    case "c":
+        try:
+            while True:
+                x = int(input("Enter a number from 1-12"))
+                if x < 1 or x > 12: # | means or
+                    pass
+                else:
+                    break
+            for i in range (1, x+1):
+                print(i)
+        except ValueError:
+            sys.exit("Cmon man. All u had to do was enter a number. Try again.")
     case _:
         print("SKUNK ATTACK🦨🦨🦨🦨🦨🦨🦨🦨🦨🦨🦨🦨")

@@ -7,7 +7,7 @@ Python:
   [ ] Control flow 
     [X] if/else
     [ ] for
-    [ ] while
+    [X] while
   [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
 [X] Linear Algebra (Khan Academy):
   [X] Vectors
