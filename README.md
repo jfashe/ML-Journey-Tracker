@@ -53,7 +53,7 @@ Documented journey from zero to Machine Learning Internship
   - Learn vector basics in Linear Algebra.
 - 📦 **Key Tasks**
   - [X] Learn basic Python syntax: variables, data types (`int`, `float`, `str`, `list`, `dict`)
-  - [ ] Review data types, variables, control flow (`if`, `for`, `while`)
+  - [X] Review data types, variables, control flow (`if`, `for`, `while`)
   - [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
   - [X] Start Khan Academy Linear Algebra – Vectors, Scalars
   - [ ] Apply to 1 MIS/data related internship.
