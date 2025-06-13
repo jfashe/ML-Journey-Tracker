@@ -5,7 +5,7 @@ Python:
     [X] Variables
     [X] Data types (`int`, `float`, `str`, `list`, `dict`).
   [ ] Control flow 
-    [ ] if/else
+    [X] if/else
     [ ] for
     [ ] while
   [ ] Practice loops: write FizzBuzz, sum a list, list comprehensions.
