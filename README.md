@@ -13,7 +13,7 @@ Documented journey from zero to Machine Learning Internship
 - **Desired Certifications:** - AWS Certified Machine Learning (Specialty), and Google Cloud Professional ML Engineer, 
 - **Hosted On:** GitHub (for public accountability and portfolio visibility)
 - **Goal:** To get an internship in ML.
-- **Why Journal?** Tired of lying to myself. Tired of saying "I'm going to lock in" and doing nothing. Nothing kills self-esteem like repeatedly breaking promises to yourself. So I'm journaling not only my ML journey, but my self-growth journey aswell.
+- **Why Journal?** Machine Learning.
 
 ---
 
@@ -78,7 +78,22 @@ Documented journey from zero to Machine Learning Internship
 - 🌱 **Self-Growth Focus**
   - Read atleast 50 pages of Discipline is Destiny by Ryan Holiday
 ---
-
+### ✅ Week 3: Data Structures & OOP Primer
+- 🎯 **Learning Objectives**
+  - Drill Python data structures: lists, dictionaries, sets, tuples.
+  - Learn basic Object-Oriented Programming patterns.
+- 📦 **Key Tasks**
+  - [ ] Practice lists, dicts, sets, tuples; use comprehensions extensively.
+  - [ ] Build a CLI “To-Do List” application with persistent JSON storage.
+  - [ ] Learn matrix multiplication (Khan Academy).
+- 🧪 **Resume-Building Progress**
+  - Add bullet: “Built a CLI To-Do List in Python, using JSON persistence and comprehensions.”
+  - Apply to 2 analytics or data-engineering roles.
+- 💡 **Notes & Insights**
+  - Understanding dictionaries changed how I think about structuring logic.
+- 🌱 **Self-Growth Focus**
+  - 10 min guided meditation (e.g., Headspace) to improve focus.
+---
 
 ---
 
