@@ -42,7 +42,6 @@ Documented journey from zero to Machine Learning Internship
 ---
 
 ## 👨🏾‍💻Sidenotes:
-- Everyone keeps telling me to get a laptop for engineering. F* that, and F* Windows!😂☠️🙈🎶😏
 
 ---
 # 📅 Weekly Progress Checklist
