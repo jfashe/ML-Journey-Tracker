@@ -6,3 +6,8 @@
 # Sum_A_List.py
 
 
+mylist = [4, 3, 3]
+
+a = mylist.size()
+
+print(a)
