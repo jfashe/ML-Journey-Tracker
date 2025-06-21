@@ -8,6 +8,8 @@
 
 mylist = [4, 3, 3]
 
-a = mylist.size()
+for i in range(len(mylist)):
+    sum = sum
 
-print(a)
+
+print(sum)
