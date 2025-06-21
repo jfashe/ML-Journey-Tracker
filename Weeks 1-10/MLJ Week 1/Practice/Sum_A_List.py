@@ -6,10 +6,9 @@
 # Sum_A_List.py
 
 
-mylist = [4, 3, 3]
+mylist,sum = [4, 3, 3, -2], 0
 
 for i in range(len(mylist)):
-    sum = sum
-
+    sum = (sum + int(mylist[i]))
 
 print(sum)
