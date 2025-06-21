@@ -15,14 +15,3 @@ print(evens)
 squares = [i*i for i in range(1,11)]
 # [expression for value in (creates iterable)]
 print(squares)
-
-
-"""
-nums,evens = [24, 13, 51, 64, 68, 111, 14, 560, 85 ], []
-
-for num in nums:
-    if num % 2 == 0:
-        evens.append(num)
-
-print(evens)
-"""
