@@ -54,14 +54,15 @@ Week of Sun, Jun 15 2025 - Sat, Jun 21 2025
 - 6/16/2025 - Week 3 Day 2 (Tuesday)
     - Failed my first calculus exam, bad. Only got to question 3 of 11, and of those 3 only two correct. Despite all the time I spend studying.....
 - 6/21/2025 - Week 3 Day 7 (Saturday)
-    - Been super inconsistent. Havent touched week two's contents, and today is the end of week 3. Week 2 gets finished today.
+    - Been super inconsistent. Havent touched week two's contents, and today is the end of week 3. Week 1 and 2 gets finished today.
+    - Finished Week1. Applied to 3 MIS internships, then added to internship tracker.
 
 ---
 
 ## 📅 Week 4: File I/O, Exceptions
 Week of Sun, Jun 22 2025 - Sat, Jun 27 2025
 
-- 6/16/2025 - Week 3 Day 2 (Tuesday)
-    - Failed my first calculus exam, bad. Only got to question 3 of 11, and of those 3 only two correct. Despite all the time I spend studying.....
+- 6/22/2025 - Sun - Week 4 Day 1
+    - ...
 
 ---
