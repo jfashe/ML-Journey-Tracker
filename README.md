@@ -77,7 +77,7 @@ Documented journey from zero to Machine Learning Internship
 - 🌱 **Self-Growth Focus**
   - Read atleast 50 pages of Discipline is Destiny by Ryan Holiday
 ---
-### ✅ Week 3: Data Structures & OOP Primer
+### ✅ Week 3: Data Structures & OOP Primer (Sun, Jun 15 - Sat, June 21)
 - 🎯 **Learning Objectives**
   - Drill Python data structures: lists, dictionaries, sets, tuples.
   - Learn basic Object-Oriented Programming patterns.
