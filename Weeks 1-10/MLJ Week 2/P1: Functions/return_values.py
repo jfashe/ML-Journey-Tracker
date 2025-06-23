@@ -2,7 +2,6 @@
 # Functions - Return Values
 
 
-def main():
-    print("Hello World")
+name = input("What's your name? ")
+print(f"hello, {name}")
 
-main()
