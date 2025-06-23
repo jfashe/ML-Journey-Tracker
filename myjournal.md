@@ -63,6 +63,8 @@ Week of Sun, Jun 15 2025 - Sat, Jun 21 2025
 Week of Sun, Jun 22 2025 - Sat, Jun 27 2025
 
 - 6/22/2025 - Sun - Week 4 Day 1
-    - Watched Bro Code and CS50P - week 0 for functions (return values, params, etc)
+    - Watched Bro Code and CS50P - 'week 0' to learn functions (return values, params, etc)
+    
+    
 
 ---
