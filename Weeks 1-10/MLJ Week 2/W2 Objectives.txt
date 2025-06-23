@@ -6,7 +6,7 @@ Python:
     [X] Parameters
     [X] Return values
 - Modules/Packaging
-    [ ] Practice import statements
+    [X] Practice import statements
     [ ] Install a package via pip
 - Code - Write functions:
     [ ] Prime checker
