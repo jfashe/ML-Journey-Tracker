@@ -1,5 +1,7 @@
-# https://video.cs50.io/JP7ITIXGpHk
+# https://video.cs50.io/JP7ITIXGpHk - CS50P Week0, Functions
 # Functions - Definitions, Parameters, AND Return Values
+# CS50 was good, don't get me wrong, but Bro Code summarizes all three in just 10 minutes here:
+# https://www.youtube.com/watch?v=89cGQjB5R4M
 
 def greet_name(name = "Joshua"):
     # takes an input (name), sets default parameter to string "joshua".

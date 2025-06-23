@@ -2,9 +2,9 @@ Week 2 Objectives:
 
 Python:
   - Functions
-    [ ] Definitions 
-    [ ] Parameters
-    [ ] Return values
+    [X] Definitions 
+    [X] Parameters
+    [X] Return values
 - Modules/Packaging
     [ ] Practice import statements
     [ ] Install a package via pip
