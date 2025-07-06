@@ -7,7 +7,7 @@ Python:
     [X] Return values
 - Modules/Packaging
     [X] Practice import statements
-    [ ] Install a package via pip
+    [X] Install a package via pip
 - Code - Write functions:
     [ ] Prime checker
     [ ] Factorial
