@@ -67,7 +67,7 @@ Documented journey from zero to Machine Learning Internship
   - Learn basic probability theory.
 - 📦 **Key Tasks**
   - [X] Learn Python functions: definitions, parameters, return values.
-  - [ ] Practice `import` statements; install a package via `pip`.
+  - [X] Practice `import` statements; install a package via `pip`.
   - [ ] Write functions: prime checker, factorial, simple calculator.
   - [ ] Study basic probability (Khan Academy “Probability Fundamentals”).
 - 🧪 **Resume-Building Progress**
