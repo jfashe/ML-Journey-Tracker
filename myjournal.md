@@ -71,13 +71,13 @@ Week of Sun, Jun 22 2025 - Sat, Jun 28 2025
 Week of Sun, Jun 29 - Sat, Jul 5
 - 6/30/2025 - Mon, Week 5 Day 1
     - Passed my Calculus II midterm. Should have a bit more time from now on.
-    - Got an 76 (C) average. Current grade is 71%.
-        Exam - 62.5/100 (should be 75, emailed prof)
-        Proof - 80/100 (should be 100, emailed prof)
-        Work - 90/100 (once prof fixes first, it should be a bit higher)
-        Expecting atleast an 86 average after adjustments.
+    - Got an 76 (C) average on exam, proof, and work (62.5/100, 80/100, and 90/100 respective) Current grade is 71%. Professor made mistakes; expecting atleast an 86 average after adjustments.
 - 7/5/2025 - Sat, Week 5 Day 7
-    - 3 weeks behind. Tomorrow makes four. Did some Python work (packages)
+    - 3 weeks behind. Tomorrow makes four. Did some w2 work (packages)
+    
+## 📅 Week 6: CS109X Unit 1 & Statistics
+- 7/6/2026 - Sun, Week 6 Day 1
+    
 
 
 

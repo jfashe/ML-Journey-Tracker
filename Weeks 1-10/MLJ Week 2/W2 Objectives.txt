@@ -9,8 +9,8 @@ Python:
     [X] Practice import statements
     [X] Install a package via pip
 - Code - Write functions:
-    [ ] Prime checker
-    [ ] Factorial
+    [X] Prime checker
+    [X] Factorial
     [ ] Simple calculator
 Math:
   [ ] Basic Probability (Khan Academy)
