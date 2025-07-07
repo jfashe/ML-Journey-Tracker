@@ -68,7 +68,7 @@ Documented journey from zero to Machine Learning Internship
 - 📦 **Key Tasks**
   - [X] Learn Python functions: definitions, parameters, return values.
   - [X] Practice `import` statements; install a package via `pip`.
-  - [ ] Write functions: prime checker, factorial, simple calculator.
+  - [X] Write functions: prime checker, factorial, simple calculator.
   - [ ] Study basic probability (Khan Academy “Probability Fundamentals”).
 - 🧪 **Resume-Building Progress**
   - Apply to 2 entry-level Python/data internships.
