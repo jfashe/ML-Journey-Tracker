@@ -91,7 +91,7 @@ Documented journey from zero to Machine Learning Internship
 - 💡 **Notes & Insights**
   - Understanding dictionaries changed how I think about structuring logic.
 - 🌱 **Self-Growth Focus**
-  - 10 min guided meditation (e.g., Headspace) to improve focus.
+  - The BIBLE is a fun book to read.
 ---
 
 ---

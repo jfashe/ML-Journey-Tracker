@@ -1,0 +1,16 @@
+Week 3 Objectives:
+
+Python:
+  - Practice
+    [ ] Lists
+    [ ] Dicts
+    [ ] Sets/Tuples
+    [ ] List comprehension bs
+  - OOP
+    [ ] Classes, objects/methods
+    [ ] Encapsulation
+    [ ] Inheritance/Composition
+  - Code - write a project:
+    [ ] CLI To-Do list with JSON storage
+Math:
+  [ ] Matrix multiplication (Khan Academy)
