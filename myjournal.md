@@ -52,7 +52,9 @@ Week of Sun, Jun 8 2025 - Sat, Jun 14 2025
 Week of Sun, Jun 15 2025 - Sat, Jun 21 2025
 
 - 6/16/2025 - Week 3 Day 2 (Tuesday)
-    - Failed my first calculus exam, bad. Only got to question 3 of 11, and of those 3 only two correct. Despite all the time I spend studying.....
+    - Failed my first Calculus II exam, bad. Only got to question 3 of 11, and of those 3 only two correct. Despite all the time I spend studying.....
+    - (UPDATE) - Got a 44 (F) average (70/100, 18/100, 46/100). Current grade is 60%.
+    Next exam I will do better.
 - 6/21/2025 - Week 3 Day 7 (Saturday)
     - Been super inconsistent. Havent touched week two's contents, and today is the end of week 3. Week 1 and 2 gets finished today.
     - Finished Week1. Applied to 3 MIS internships, then added to internship tracker.
@@ -60,11 +62,25 @@ Week of Sun, Jun 15 2025 - Sat, Jun 21 2025
 ---
 
 ## 📅 Week 4: File I/O, Exceptions
-Week of Sun, Jun 22 2025 - Sat, Jun 27 2025
+Week of Sun, Jun 22 2025 - Sat, Jun 28 2025
 
 - 6/22/2025 - Sun - Week 4 Day 1
     - Watched Bro Code and CS50P - 'week 0' to learn functions (return values, params, etc)
-    
+
+## 📅 Week 5: OOP and CS109X Begins
+Week of Sun, Jun 29 - Sat, Jul 5
+- 6/30/2025 - Mon, Week 5 Day 1
+    - Passed my Calculus II midterm. Should have a bit more time from now on.
+    - Got an 76 (C) average. Current grade is 71%.
+        Exam - 62.5/100 (should be 75, emailed prof)
+        Proof - 80/100 (should be 100, emailed prof)
+        Work - 90/100 (once prof fixes first, it should be a bit higher)
+        Expecting atleast an 86 average after adjustments.
+- 7/5/2025 - Sat, Week 5 Day 7
+    - 3 weeks behind. Tomorrow makes four. Did some Python work (packages)
+
+
+
     
 
 ---
