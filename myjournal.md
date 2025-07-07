@@ -73,10 +73,12 @@ Week of Sun, Jun 29 - Sat, Jul 5
     - Passed my Calculus II midterm. Should have a bit more time from now on.
     - Got an 76 (C) average on exam, proof, and work (62.5/100, 80/100, and 90/100 respective) Current grade is 71%. Professor made mistakes; expecting atleast an 86 average after adjustments.
 - 7/5/2025 - Sat, Week 5 Day 7
-    - 3 weeks behind. Tomorrow makes four. Did some w2 work (packages)
+    - 3 weeks behind. Tomorrow makes four. Did more w2 work.
+    - Wrote Prime Checker and Factorial.
     
 ## 📅 Week 6: CS109X Unit 1 & Statistics
 - 7/6/2026 - Sun, Week 6 Day 1
+    - Wrote basic Calculator. Finished Week 2, minus the maths.
     
 
 

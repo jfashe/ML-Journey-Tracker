@@ -11,6 +11,6 @@ Python:
 - Code - Write functions:
     [X] Prime checker
     [X] Factorial
-    [ ] Simple calculator
+    [X] Simple calculator
 Math:
   [ ] Basic Probability (Khan Academy)
