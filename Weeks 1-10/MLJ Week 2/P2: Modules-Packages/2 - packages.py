@@ -29,8 +29,10 @@ pokemon_info = get_pokemon_info(pokemon_name)
 
 # If the info exists basically.
 if pokemon_info:
-    print(pokemon_info["name"])
+    print(pokemon_info["name"].capitalize())
+    print(pokemon_info["height"])
+    print(pokemon_info["weight"])
 
     # to print just keys if you dont feel like reading the whole json
-    for key in pokemon_info:
-        print(key)
+#    for key in pokemon_info:
+#        print(key)
