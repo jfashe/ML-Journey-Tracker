@@ -33,6 +33,6 @@ if pokemon_info:
     print(pokemon_info["height"])
     print(pokemon_info["weight"])
 
-    # to print just keys if you dont feel like reading the whole json
-#    for key in pokemon_info:
-#        print(key)
+# to print just keys if you dont feel like reading the whole json
+for key in pokemon_info:
+    print(key)
