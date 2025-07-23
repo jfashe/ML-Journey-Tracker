@@ -1,0 +1,6 @@
+0. Search - looking for solutions for various problems.
+
+Search Problems
+
+    agent - an entity that perceives its environment, and acts upon that environment
+    state - a configuration of the agent in its environment
