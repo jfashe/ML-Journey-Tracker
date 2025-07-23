@@ -2,5 +2,57 @@
 
 Search Problems
 
+Terminology
     agent - an entity that perceives its environment, and acts upon that environment
     state - a configuration of the agent in its environment
+        initial state - where the agent begins
+    actions - choices that can be made in a state
+    transition model - a description of the resulting state from performing an action.
+        RESULT(s,a) returns the state resulting from performing action a in state s
+    state space - the set of all states reachable from the initial state by any sequence of actions
+    goal test - a way of determening whether a given state is a goal state
+    path cost - numerical cost associated with a given path
+    solution - a sequence of actions that leads from the initial state to a goal state
+    optimal solution - solution with the lowest path cost among all possible solution
+
+Solving Search Problems:
+    Search Problem consist of:
+        - initial state
+        - actions
+        - transition model
+        - goal test
+        - path cost function
+
+    More Terminology:
+        node - a data structure that keeps track of:
+            - a state
+            - a parent (node that generated this node)
+            - an action (action applied to parent to get node)
+            - a path cost (from initial state to node)
+        Frontier - all the things we could explore that haven't been explored
+    
+    Approach:
+        - Start with a frontier, containing the initial state
+        - Repeat:
+            - If the frontier is empty, there is no solution.
+            - Otherwise, remove a node from the frontier.
+            - If the node contains a goal state, return the solution.
+            - Otherwise, 'expand' the node, adding resulting nodes to the frontier.
+        Decent approach, but doesn't account for nodes that can traverse backwards
+
+    Revised Approach:
+        - Start with a frontier,
+        - Start with an empty, 'explored' set
+        - Repeat:
+            - If the frontier is empty, there is no solution.
+            - Otherwise, remove a node from the frontier.
+            - If the node contains a goal stae, return the solution.
+            - Add the node to the explored state
+            - Otherwise, 'expand' the node, adding resulting nodes to the frontier, IF they aren't already in the frontier or explored set.
+    
+    Stack - Last in, first out data-type.
+    Queue - First in, first out data-type.
+    
+    Depth-first search (DFS) - search algorithm that always expands the deepest node in the frontier. Utilizes stacks.
+
+    Breadth-first search (BFS) - search algorithm that always expands the shallowest node in the frontier. Utilizes queues.
