@@ -77,7 +77,7 @@ Documented journey from zero to Machine Learning Internship
 - 🌱 **Self-Growth Focus**
   - Read atleast 50 pages of Discipline is Destiny by Ryan Holiday
 ---
-### ✅ Week 3: Data Structures & OOP Primer (Sun, Jun 15 - Sat, June 21)
+### ✅ Week 3: Data Structures & OOP Primer (Sun, Jun 15 - Sat, Jun 21)
 - 🎯 **Learning Objectives**
   - Drill Python data structures: lists, dictionaries, sets, tuples.
   - Learn basic Object-Oriented Programming patterns.
@@ -93,7 +93,66 @@ Documented journey from zero to Machine Learning Internship
 - 🌱 **Self-Growth Focus**
   - The BIBLE is a fun book to read.
 ---
-
+### ✅ Week 4: File I/O, Exceptions, Calculus Preview (Sun, Jun 22 - Sat, Jun 28)
+- 🎯 **Learning Objectives**
+  - Master reading/writing files and robust error handling in Python.
+  - Align with Calculus II by practicing basic derivatives.
+- 📦 **Key Tasks**
+  - [ ] Practice file I/O: read/write `.txt`, `.csv`, `.json` in Python.
+  - [ ] Implement `try`/`except` blocks and custom exceptions.
+  - [ ] Write a CSV parser script (e.g., load Iris dataset, compute mean/median).
+  - [ ] Solve basic Calculus II derivatives to stay on track.
+- 🧪 **Resume-Building Progress**
+  - Add bullet: “Parsed CSV data in Python, implemented error handling, computed summary statistics.”
+---
+### ✅ Week 5: OOP & CS50AI Begins (Sun, Jun 28 - Sat, Jul 5)
+- 🎯 **Learning Objectives**
+  - Solidify classes, methods, and OOP concepts in Python.
+  - Practice uninformed & informed search algorithms (DFS, BFS, A*, heuristics).
+- 📦 **Key Tasks**
+  - [ ] Implement a `Student` class with methods to store grades and compute GPA.
+  - [ ] Start CS50AI Unit 0 (Search): complete lectures and problem sets
+  - [ ] Review basic linear algebra: dot products, matrix addition.
+- 🧪 **Resume-Building Progress**
+  - Add bullet: “Completed CS50 AI Unit 0—implemented DFS, BFS, and A* search in Python.”
+  - Push class project and README to GitHub.
+---
+### ✅ Week 6: CS50AI Unit 1 & Statistics Refresher (Sun, Jul 6 - Sat, Jul 12)
+- 🎯 **Learning Objectives**
+  - Represent facts with propositional logic; build inference engines.
+  - Keep up with Calculus II integration practice.
+  - Refresh descriptive statistics (mean, variance, std).
+- 📦 **Key Tasks**
+  - [ ] Complete CS50AI Unit 1 (Knowledge): lectures and problem sets
+  - [ ] Compute mean, variance, standard deviation on sample datasets.
+  - [ ] Continue Calculus II practice: solve at least one integration problem per day (literally nothing extra than class)
+- 🧪 **Resume-Building Progress**
+  - Add bullet: “Built a logical inference engine and solved Minesweeper (CS50 AI Unit 1).”
+  - Update GitHub with Pandas notebook.
+---
+### ✅ Week 7: CS50AI Unit 2 & Python Scripting (Sun, Jul 13 - Sat, Jul 19)
+- 🎯 **Learning Objectives**
+  - Model uncertainty with Bayes’ rule, Markov chains, and Bayesian networks.
+  - Automate a daily workflow using Python scripting.
+- 📦 **Key Tasks**
+  - [ ] Complete CS50AI Unit 2 (Uncertainty): lectures, psets
+  - [ ] Write a script to organize/rename files in a local folder.
+  - [ ] Lock in for cal 2 midterms.
+- 🧪 **Resume-Building Progress**
+  - Add bullet: “Created data visualizations (histograms, scatterplots) with Matplotlib and Seaborn.”
+  - Push Python automation script to GitHub.
+---
+### ✅ Week 8: CS50AI Unit 3 - Optimiazation & Andrew Ng ML Week 1 (Jul 20 - Sat, Jul 26)
+- 🎯 **Learning Objectives**
+  - Use heuristics/constraints to optimize solutions (crossword filler).
+  - Begin supervised-learning theory via Andrew Ng ML Week 1.
+- 📦 **Key Tasks**
+  - [ ]  CS50AI Unit 3: finish lectures and Crossword generator problem set.
+  - [ ] Watch Andrew Ng ML Week 1 lecture; do associated quiz.
+  - [ ] Continue Calculus II: daily integration practice (light load).
+- 🧪 **Resume-Building Progress**
+  - Add bullet: “Built linear regression model (scikit-learn) on Boston Housing dataset; evaluated performance.”
+  - Update LinkedIn headline: “Aspiring ML Engineer | CS50 AI & Andrew Ng ML.”
 ---
 
 📝 **Final Thoughts:**
@@ -104,11 +163,11 @@ This project shows my transition from zero to deployable ML pipelines. Built ent
 ---
 
 ## 📜 Certifications
-- [ ] CS109X – Intro to Data Science (HarvardX)
 - [ ] CS50 AI – Intro to AI with Python (HarvardX)
+- [ ] Andrew Ng Machine Learning Specialization (Coursera)
+- [ ] [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/learn/machine-learning-linear-algebra/paidmedia?specialization=mathematics-for-machine-learning-and-data-science)
 - [ ] AWS Certified Machine Learning – Specialty
 - [ ] Google Cloud Professional ML Engineer
-
 ---
 
 ## GitHub Readme To-Do (for visibility)
