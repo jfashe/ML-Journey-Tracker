@@ -62,47 +62,52 @@ Types of Algorithms:
     Informed Search - search strategies that use problem-specific knowlede to find efficient solutions
         e.g. if i'm in a square closer to the goal, that is better than being in a square farther from the goal.
 
-        Greedy best-first search (GBFS)
-         - an (informed) search algorithm that expands the node that is closest to the goal, estimated by a heuristic function h(n)
-            - Heuristic Functions - functions that estimate accuracy.
-                - Manhatten Distance - type of heuristic that calculates a distance on the x/y plane. (moves in the x or y values. never horizontally)
-        A* Search
-         - a search aglo that expands the node with the lowest value of g(n) + h(n), with:
-            g(n) - cost to reach node
-                from n=0, how many steps taken
-            h(n) - estimated cost to reach goal
-                same heuristic distance from goal
+Different Search Algorithms:
 
-            A* search is optimal if:
-             - h(n) is admissable, never overestimates the cost
-             - h(n) is consistent. 
-                For n' = previous distance, and c = cost from h(n) to h(n');
-                h(n) must be less than or equal to h(n'). h(n) <= h(n') + c
-        
-        Adversarial Search
-         - An algorithm has an opposing goal.
-        
-        Minimax
-         - Game:
-            - S(0): initial state
-            - PLAYER(s): returns which player to move in state S
-            - ACTION(s): returns legal (possible) moves in state s
-            - RESULT(s, a): returns state after action a taken in state s
-            - TERMINAL(s): checks if state s is a terminal state
-        
-         Pseudocode of Minimax
-            - Given a state s:
-                - MAX picks action a in ACTIONS(s) that 
-            produces highest value of MinValue(RESULTS(s,a))
-            - MIN picks action a in ACTIONS(s) that 
-              produces smallest value of MaxValue(RESULTS(s,a))
-        
-            - Alpha-Beta Pruning
-                - algorithm that prunes [irrelevant] nodes in a tree by comparing two nodes of different values.
-                - Hence, alpha-beta.
+    Depth-first search (DFS) - search algorithm that always expands the deepest node in the frontier. Utilizes stacks.
 
-        Depth-Limited Minimax
-         Limits the amount of actions being considered.
+    Breadth-first search (BFS) - search algorithm that always expands the shallowest node in the frontier. Utilizes queues.
+
+    Greedy best-first search (GBFS) - an (informed) search algorithm that expands the node that is closest to the goal, estimated by a heuristic function h(n)
+        - Heuristic Functions - functions that estimate accuracy.
+            - Manhatten Distance - type of heuristic that calculates a distance on the x/y plane. (moves in the x or y values. never horizontally)
+
+    A* Search - a search aglo that expands the node with the lowest value of g(n) + h(n), with:
+        g(n) - cost to reach node
+            from n=0, how many steps taken
+        h(n) - estimated cost to reach goal
+            same heuristic distance from goal
+
+        A* search is optimal if:
+            - h(n) is admissable, never overestimates the cost
+            - h(n) is consistent. 
+            For n' = previous distance, and c = cost from h(n) to h(n');
+            h(n) must be less than or equal to h(n'). h(n) <= h(n') + c
         
-         Evaluation Function:
-            - Function that estimates the expected utility of the game from a given state
+    Adversarial Search
+        - An algorithm has an opposing goal.
+    
+    Minimax
+        - Game:
+        - S(0): initial state
+        - PLAYER(s): returns which player to move in state S
+        - ACTION(s): returns legal (possible) moves in state s
+        - RESULT(s, a): returns state after action a taken in state s
+        - TERMINAL(s): checks if state s is a terminal state
+    
+        Pseudocode of Minimax
+        - Given a state s:
+            - MAX picks action a in ACTIONS(s) that 
+        produces highest value of MinValue(RESULTS(s,a))
+        - MIN picks action a in ACTIONS(s) that 
+            produces smallest value of MaxValue(RESULTS(s,a))
+    
+        - Alpha-Beta Pruning
+            - algorithm that prunes [irrelevant] nodes in a tree by comparing two nodes of different values.
+            - Hence, alpha-beta.
+
+    Depth-Limited Minimax
+        Limits the amount of actions being considered.
+    
+        Evaluation Function:
+        - Function that estimates the expected utility of the game from a given state
