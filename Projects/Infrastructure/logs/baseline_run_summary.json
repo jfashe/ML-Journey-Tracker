@@ -1,0 +1,9 @@
+{
+  "epochs_ran": 30,
+  "best_loss": 0.43589756712039707,
+  "best_accuracy": 0.974,
+  "num_alerts": 0,
+  "alerts": [],
+  "total_runtime_sec": 0.0031549930572509766,
+  "log_file": "logs/baseline_run.jsonl"
+}
