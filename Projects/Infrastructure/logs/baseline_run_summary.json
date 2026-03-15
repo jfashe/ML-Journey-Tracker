@@ -4,6 +4,6 @@
   "best_accuracy": 0.974,
   "num_alerts": 0,
   "alerts": [],
-  "total_runtime_sec": 0.0031549930572509766,
+  "total_runtime_sec": 0.0039031505584716797,
   "log_file": "logs/baseline_run.jsonl"
 }
